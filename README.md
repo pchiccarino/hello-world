@@ -1,4 +1,3 @@
 # hello-world
-tutorials
+tutorial
 blah blah
-master edit
