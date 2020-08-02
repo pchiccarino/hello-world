@@ -1,4 +1,4 @@
 # hello-world
-tutorial
+tutorials
 blah blah
 more edits  
